@@ -12,7 +12,7 @@ $transactions = [
         'category' => 'Income',
         'amount' => 50000,
         'type' => 'income',
-        'date' => '22 Sep 2026'
+        'date' =>'22 Sep 2026'
     ],
     [
         'title' => 'Rent',
@@ -411,11 +411,11 @@ $transactions = [
             </li>
 
             <li>
-                <a href="#">📈 Reports</a>
+                <a href="#"> Reports</a>
             </li>
 
             <li>
-                <a href="#">⚙️ Settings</a>
+                <a href="#"> Settings</a>
             </li>
         </ul>
 
