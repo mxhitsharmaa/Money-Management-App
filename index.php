@@ -124,17 +124,7 @@ $transactions = [
             padding: 30px;
         }
 
-        .topbar {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 30px;
-        }
-
-        .topbar h1 {
-            font-size: 28px;
-            margin-bottom: 5px;
-        }
+        .
 
         .topbar p {
             color: #6b7280;
@@ -464,12 +454,7 @@ $transactions = [
                 </div>
             </div>
 
-            <div class="card">
-                <div class="card-title">Total Savings</div>
-                <div class="card-value saving">
-                    ₹<?= number_format($totalSavings) ?>
-                </div>
-            </div>
+           
 
         </div>
 
