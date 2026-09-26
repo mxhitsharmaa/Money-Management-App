@@ -117,14 +117,6 @@ $transactions = [
             color: white;
         }
 
-        /* Main */
-        .main {
-            margin-left: 250px;
-            width: calc(100% - 250px);
-            padding: 30px;
-        }
-
-        .
 
         .topbar p {
             color: #6b7280;
