@@ -19,8 +19,6 @@ A web-based Money Management System built with PHP and MySQL to help users manag
 - PHP
 - MySQL
 - JavaScript
-- HTML5
-- CSS3
 - JSON Web Tokens (JWT)
 - REST API
 
@@ -58,7 +56,7 @@ This project demonstrates practical PHP development, database management, REST A
 
 ## Author
 
-Mohit Sharma
+Mohit 
 
 GitHub: https://github.com/mxhitsharmaa
 
